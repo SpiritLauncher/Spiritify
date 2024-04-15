@@ -1,16 +1,16 @@
-# Spiritify
+# Spiritify (RELEASING SOON.)
 A Standalone Spotify Mod for Spirit City: Lofi Sessions
 
 > [!WARNING]  
-> Spiritify will **ONLY** work with _Spotify Premium Subscribers_. This is due to Spotify Limitations.
+> Spiritify will **ONLY** work with _Spotify Premium Subscribers_. This is due to Spotify's Limitations.
 
 > [!NOTE]  
 > Spiritify only supports Windows, and _may or may not_ be ported for Linux and MacOS Releases.
 
 ## How to install!
-1. Go to the Releases Tab and Grab the latest "Spiritify-Auto.zip" file.
+1. Go to the Releases Tab and Grab the latest "Spiritify-Auto.exe" file.
 
-2. Extract it, and run the "Spiritify-Auto.exe" file as Adminstrator.
+2. Run the "Spiritify-Auto.exe" file as Adminstrator.
 > [!NOTE]  
 > If you don't want to run it as Administrator, you can bypass it by starting the executable with "-m". **This WILL cause errors.**
 
@@ -18,12 +18,12 @@ A Standalone Spotify Mod for Spirit City: Lofi Sessions
 
 ## Spotify Setup
 Out of the box, Spiritify won't work. You would need to create an app!
-1. Go to "https://developer.spotify.com/dashboard" onto your browser and log in to your Spotify account.
+1. Go to "https://developer.spotify.com/dashboard" on your browser and log in to your Spotify account.
 
 2. Once in, create an app.
 <br>![image](https://github.com/SpiritLauncher/Spiritify/assets/96365455/6ead3c3d-f419-4d20-9692-42fb95930750)
 
-3. Give it an App name and App description. Set the redirect URI to "http://localhost:8012", and enable Web API and Web Playback API
+3. Set the App Name and App Description to "Spiritify". Set the redirect URI to "http://localhost:8012", and enable Web API and Web Playback API
 <br>![image](https://github.com/SpiritLauncher/Spiritify/assets/96365455/6160e6ae-1652-468a-abd0-c8324245a5b2)
 > [!NOTE]  
 > If you are going to use a different port, note it down. You will need to know it for later.
@@ -69,9 +69,32 @@ Do the same as you did with the ClientID and Client Secret, but put it in the "S
 Go onto the link, and link your Spotify Account.
 
 > [!NOTE]  
-> If you get a warning about an invalid ClinetID and Client Secret, you may need to redo step 6.<br>You may also need to install Spirit City on your C: Drive, if it's on a different Drive.
+> If you get a warning about an invalid ClientID and Client Secret, you may need to redo step 6.<br>You may also need to install Spirit City on your C: Drive, if it's on a different Drive.
 
 If done correctly, the Terminal will close, and Spirit City will launch "like normal".
 
 > [!IMPORTANT]  
 > The terminal will pop up if your credentials go invalid. Just re-login. **(YOU DON'T NEED TO DO STEP 7 AGAIN)**
+
+8. A new option in "Music" called "Spiritify" will be added under "Web Music Player"!
+<br>_(Don't bully on the design, it's very good 👍)_
+<br>![image](https://github.com/SpiritLauncher/Spiritify/assets/96365455/fa136d29-a5f4-4fba-ac1c-1ca57325765c)
+
+Spotify will show it's playing on Spiritify.
+<br>![image](https://github.com/SpiritLauncher/Spiritify/assets/96365455/92db0865-b811-45ec-bf43-38f20f69e714)
+
+------------
+## Screenshots:
+Will take some when I have time.
+
+## Roadmap
+- [x] Show Title
+- [x] Show Artist
+- [ ] Show Album
+
+### Controls
+- [x] Play/Pause
+- [x] Shuffling
+- [x] Looping
+- [x] Skip forward/backwards
+- [ ] Volume (Current workaround, control via Mobile/Desktop Apps.)
