@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="https://github.com/SpiritLauncher/Spiritify/assets/96365455/59cdd3d3-6d9b-4f8d-a369-5531fcf9f586" alt="Spiritify Logo">
+</p>
 # Spiritify (RELEASING SOON.)
 A Standalone Spotify Mod for Spirit City: Lofi Sessions
 
