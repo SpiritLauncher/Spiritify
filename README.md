@@ -87,6 +87,14 @@ If done correctly, the Terminal will close, and Spirit City will launch "like no
 Spotify will show it's playing on Spiritify.
 <br>![image](https://github.com/SpiritLauncher/Spiritify/assets/96365455/92db0865-b811-45ec-bf43-38f20f69e714)
 
+## Uninstall Spiritify
+1. Go to your Spirit City Installation, and delete "SpiritCity.exe"
+<br>![image](https://github.com/SpiritLauncher/Spiritify/assets/96365455/a24c9005-8e8c-4206-abdb-4c13fbc8ff0a)
+<br>![image](https://github.com/SpiritLauncher/Spiritify/assets/96365455/a0977889-2554-4294-b143-06ba6182ad65)
+
+2. Rename "SpiritCityBackup.exe" to "SpiritCity.exe"
+<br>_(If you can't launch Spirit City, you can always reinstall OR verify integrity of your files.)_
+
 ------------
 ## Screenshots:
 Will take some when I have time.
