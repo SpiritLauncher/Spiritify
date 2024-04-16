@@ -27,8 +27,9 @@ Out of the box, Spiritify won't work. You would need to create an app!
 2. Once in, create an app.
 <br>![image](https://github.com/SpiritLauncher/Spiritify/assets/96365455/6ead3c3d-f419-4d20-9692-42fb95930750)
 
-3. Set the App Name and App Description to "Spiritify". Set the redirect URI to "http://localhost:8012", and enable Web API and Web Playback SDK.
-<br>![image](https://github.com/SpiritLauncher/Spiritify/assets/96365455/6160e6ae-1652-468a-abd0-c8324245a5b2)
+3. Set the App Name and App Description to "Spiritify". Set the redirect URI to `http://localhost:8012/auth/callback`, and enable Web API and Web Playback SDK.
+<br>![image](https://github.com/SpiritLauncher/Spiritify/assets/96365455/26b40ba7-f987-4fed-81ab-e96ae20b5fe7)
+
 > [!NOTE]  
 > If you are going to use a different port, note it down. You will need to know it for later.
 
