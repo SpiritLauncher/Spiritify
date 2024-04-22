@@ -1,4 +1,4 @@
-# SPIRITIFY DELAYED DUE TO THE DECRYPTION SCRIPT NOT WORKING. POSSIBLY SPOTIFY BACKEND UPDATE???
+# Spirit City made an update that caused the variables in Spiritify & SpiritLauncher to stop working. I will fix this when I have time.
 
 
 <p align="center">
